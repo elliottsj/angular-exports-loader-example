@@ -1,5 +1,7 @@
 # angular-exports-loader-example
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Example webpack configuration to load CommonJS-incompatible AngularJS v1.3.0 via [exports-loader](https://github.com/webpack/exports-loader).
 
 ### Installation
